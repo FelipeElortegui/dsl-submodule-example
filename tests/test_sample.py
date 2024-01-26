@@ -1,5 +1,5 @@
 def test_example():
     assert True
 
-def second_test_example():
+def test_example_asdf():
     assert True
